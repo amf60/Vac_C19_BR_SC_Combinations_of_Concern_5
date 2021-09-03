@@ -1,9 +1,10 @@
 Vac_Covid19_BR_SC_Combinations_of_Concern_5
 
-Clinical Data Scientist: Aldir MEDEIROS FILHO
-FLORIANOPOLIS, Santa Catarina(SC), Brasil
-02 Sep 2021
-Introduction:
+* Clinical Data Scientist: Aldir MEDEIROS FILHO
+* FLORIANOPOLIS, Santa Catarina(SC), Brasil
+* 02 Sep 2021
+
+# Introduction:
 
 This is the 5th monthly edition of my personal project named 'Combinations_of_Concern - CoC'. The first 4 were initiated and developped during my attendance to [Alura Bootcamp Applied Data Science II (Brazilian Winter 2021)](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) that was done in parallel to a sequence of 32 Alura courses focused exclusively on the Python language between 01 May and 30 Aug 2021.
 
@@ -43,7 +44,7 @@ table above prepared using https://www.tablesgenerator.com/markdown_tables
 
 Covid-19 vaccination records in the Brazilian state of Santa Catarina
 
-For information, here after all the central government official information for the Brazilian State of Santa Catarina on 02 Sep 2021.
+For information only, here after all the central government official information for the Brazilian State of Santa Catarina on 02 Sep 2021.
 
 ![Screen Shot 2021-09-02 at 16 46 43](https://user-images.githubusercontent.com/39899585/131907104-fcb14ece-f298-4886-b63b-95e48c69dd50.png)
 

@@ -20,7 +20,7 @@ At the end of July we noticed a reduction to ~ 10% of total of registrations res
 
 This 5th edition shows that at end of August 2021 (checked on 02 Sep 21) the monthly trend on the proportion of 'Combinations of Concern' continues in the early teens (11% end August 2021).
 
-##AMF: Technical Warning: For this 5th edition early September 2021, due to the significant increase on the rows in the raw dataset(sc0209_07am), I was obliged to subscribe to Google Colab Pro in order to have a connection to GPU and high-RAM runtime available. This information is important to know about the limitations of the free version of Google Colab.
+##AMF: Technical Warning: For this 5th edition at early September 2021, due to the significant increase on the rows in the raw dataset(sc0209_07am), I was obliged to subscribe to Google Colab Pro in order to have a connection to GPU and high-RAM runtime available. This information is important to know about the limitations of the free version of Google Colab.
 
 I welcome any comments about errors (I am sure there are), suggestions for improvement and collaboration to perform the same investigation for other Brazilian states.
 

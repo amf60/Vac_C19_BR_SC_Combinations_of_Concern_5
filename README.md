@@ -31,16 +31,14 @@ Aldir Medeiros Filho
 
 [Dataset Source – OpenDataSus - Registros de Vacinação Covid19 - Dados SC – Santa Catarina – Brasil](https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao/resource/ef3bd0b8-b605-474b-9ae5-c97390c197a8)
 
-For this edition 5 the dataset downloaded on 02 Sep 2021 at 07:00 am
+For this edition 5 the dataset was downloaded from the central governement database on 02 Sep 2021 at 07:00 am
 
-| Edition | 'Combinations_of_Concern" github                                                                                                                   | Published    | raw file        | Raw size | columns | rows (registrations) | new registrations |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------|----------|---------|----------------------|-------------------|
-| 1+2     | https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_1 <br> <br>https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_2 | early Jun 21 | sc3005_05am.csv |  1.11 GB |    34   |            2,017,225 |                   |
-| 3       | https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_3                                                                               | early Jul 21 | sc0207_07am.csv |  1.71 GB |    34   |            3.133.344 |         1.116.119 |
-| 4       | https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_4                                                                               | early Aug 21 | sc0408_10am.csv |  2.6 GB  |    34   |            4.854.329 |         1.720.985 |
-| 5       |                                                                                                                                                    | early Sep 21 | sc0209_07am.csv |  3.66 GB |    34   |            6.822.321 |         1.967.992 |
-
-table above prepared using https://www.tablesgenerator.com/markdown_tables
+|                                                Editions <br>'Combinations_of_Concern - CoC' <br> github links                                                | Published <br><br>early |     raw file    | Raw size | columns | rows <br>(registrations) | new <br>registrations | Total nr <br>CoC's registrations | CoC <br>% per total |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------:|:---------------:|:--------:|:-------:|:------------------------:|:---------------------:|:--------------------------------:|:-------------------:|
+| [1](https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_1) <br> <br>[2](https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_2) |          Jun 21         | sc3005_05am.csv |  1.11 GB |    34   |                2.059.426 |                       | 259.507                          |         12 %        |
+|                                           [3](https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_3)                                          |          Jul 21         | sc0207_07am.csv |  1.71 GB |    34   |                3.133.344 |             1.116.119 | 368.654                          |         12 %        |
+|                                           [4](https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_4)                                          |          Aug 21         | sc0408_10am.csv |  2.6 GB  |    34   |                4.854.329 |             1.720.985 | 576.103                          |         12 %        |
+|                                           [5](https://github.com/amf60/Vac_Covid19_BR_SC_Combinations_of_Concern_5)                                          |          Sep 21         | sc0209_07am.csv |  3.66 GB |    34   |                6.822.321 |             1.967.992 | 767.214                          |         11%         |
 
 Covid-19 vaccination records in the Brazilian state of Santa Catarina
 
